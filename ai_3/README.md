@@ -12,15 +12,16 @@
 ---
 ### Files listed and remarks
 
-
+- `img.py` training and evaluating of a model to distinguish between Muffin vs Chihuahua → [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification)`.
+- A local file containing images should be created for `img.py` to work.
+- `text.py` training and evaluating of a model for the data in `SPD.csv`
+- `data_processing.py` functions for loading and processing data
+- `error_analysis` functions for computing error
+- `graphs.py` contains plotting functions
+- `predict_and_evaluate.py` contains functions for prediction and evaluation
 
 - For this task we were required to find an existing solution and adjust it to our needs.
 - This solutions is based on → [Youtube](https://www.youtube.com/watch?v=jztwpsIzEGc) by Nicholas Renotte
-
-## Image Classification
-
-- **Dataset:** Choose one:
-  - Muffin vs Chihuahua → [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification)
 
 - **CNN Details:**
   - Input: Resized color images
