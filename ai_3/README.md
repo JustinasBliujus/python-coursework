@@ -12,7 +12,7 @@
 ---
 ### Files listed and remarks
 
-- `img.py` training and evaluating of a model to distinguish between Muffin vs Chihuahua → [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification)`.
+- `img.py` training and evaluating of a model to distinguish between Muffin vs Chihuahua → [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification).
 - A local file containing images should be created for `img.py` to work.
 - `text.py` training and evaluating of a model for the data in `SPD.csv`
 - `data_processing.py` functions for loading and processing data
