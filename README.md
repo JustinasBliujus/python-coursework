@@ -1,4 +1,4 @@
-# 🎓 AI University Assignments
+# AI University Assignments in python
 
 This repository contains  university assignments focused on artificial intelligence and neural networks, completed during the course in python.
 
